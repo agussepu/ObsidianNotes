@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "55e271bf0bcca841",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fae1606b544c143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fe2eae0f87a8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atributos de ficheros - Chattr y Lsattr"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94e0aac9a0fe51da",
+    "type": "split",
+    "children": [
+      {
+        "id": "9777d5ff25e16db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c270147550248abc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "525a1f41ea49939c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a3f08e9b63ed9ee1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0394bd666860742",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ccb91188fc3db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618e00cc6d57e81b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Atributos de ficheros - Chattr y Lsattr"
+            }
+          },
+          {
+            "id": "16b941f2cf79919f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Atributos de ficheros - Chattr y Lsattr"
+            }
+          },
+          {
+            "id": "f52657453217b46a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2b38db0d912361ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Atributos de ficheros - Chattr y Lsattr"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2fe2eae0f87a8c3f",
+  "lastOpenFiles": [
+    "MyObsidian/Linux 🐧/Capabilities.md",
+    "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+    "README.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoria.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/String Formatting.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Operadores básicos.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Manejo de errores y excepciones.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Funciones lambda.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Variables y tipos de datos.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Listas.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Tuplas.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Conjuntos.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Funciones y Scope.md",
+    "MyObsidian/Linux 🐧/Descriptores de archivo.md",
+    "MyObsidian/Git y Github/Git/git config --global.md",
+    "MyObsidian/Git y Github/Git/git basic.md",
+    "MyObsidian/Git y Github/Git/Deshacer Commits.md"
+  ]
+}

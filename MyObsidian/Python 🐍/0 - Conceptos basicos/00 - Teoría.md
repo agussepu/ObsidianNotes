@@ -1,3 +1,19 @@
+Filosofía de Python - Zen de Python (legibilidad y simplicidad en el código)
+
+Es un lenguaje de **alto nivel, interpretado y de propósito general**.
+
+**interpretado:** Se ejecutan mediante un interprete sin ser compilado previamente (traduce el código fuente en código maquina en tiempo real a la vez que se ejecuta el programa)
+
+**Alto nivel:** Mas fácil de leer y escribir para los humanos
+
+**Propósito general:**
+- ***Programación orientada a objetos (POO)***: 
+- ***Programación Imperativa: 
+- ***Programación Funcional***: 
+
+
+
+---
 Python es un lenguaje de programación de alto nivel, interpretado y con una filosofía que enfatiza una sintaxis que favorece un código legible. La filosofía de Python también enfatiza la importancia de la eficiencia y la practicidad. Python se ha diseñado para ser altamente extensible, lo que permite a los programadores escribir nuevos módulos y extensiones en C o C++ para realizar operaciones críticas rápidamente.
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+                "file": "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atributos de ficheros - Chattr y Lsattr"
+              "title": "00 - Teoría"
             }
           }
         ]
@@ -164,15 +164,15 @@
   },
   "active": "2fe2eae0f87a8c3f",
   "lastOpenFiles": [
-    "MyObsidian/Linux 🐧/Capabilities.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
     "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+    "MyObsidian/Linux 🐧/Capabilities.md",
     "README.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoria.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/String Formatting.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/Operadores básicos.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/Manejo de errores y excepciones.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/Funciones lambda.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/Variables y tipos de datos.md",
     "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Listas.md",
     "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Tuplas.md",

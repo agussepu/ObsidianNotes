@@ -2,7 +2,6 @@
 tags:
   - Linux
 ---
-https://www.youtube.com/watch?v=HbgzrKJvDRw
 ### Directorio Raíz
 El directorio raíz, simbolizado por el símbolo (/), es el **directorio principal a partir del cual se ramifican todo el resto de directorios**.
 

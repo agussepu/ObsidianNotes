@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7fae1606b544c143",
+        "id": "25b212b560b884c3",
         "type": "tabs",
         "children": [
           {
-            "id": "2fe2eae0f87a8c3f",
+            "id": "e9982b2b74cc88f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
+                "file": "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Operadores Aritmeticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Teoría"
+              "title": "Operadores Aritmeticos"
             }
           }
         ]
@@ -162,25 +162,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2fe2eae0f87a8c3f",
+  "active": "e9982b2b74cc88f7",
   "lastOpenFiles": [
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
-    "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
-    "MyObsidian/Linux 🐧/Capabilities.md",
-    "README.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/String Formatting.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/Operadores básicos.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/Manejo de errores y excepciones.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/Funciones lambda.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/Variables y tipos de datos.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Listas.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Tuplas.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Conjuntos.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/Funciones y Scope.md",
-    "MyObsidian/Linux 🐧/Descriptores de archivo.md",
-    "MyObsidian/Git y Github/Git/git config --global.md",
-    "MyObsidian/Git y Github/Git/git basic.md",
-    "MyObsidian/Git y Github/Git/Deshacer Commits.md"
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Manejo de errores y excepciones.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Lamnda.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Operadores Aritmeticos.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Diccionarios.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Basic.md",
+    "MyObsidian/Linux 🐧/Consola/Capabilities.md",
+    "MyObsidian/Linux 🐧/Consola/Atributos de ficheros - Chattr y Lsattr.md",
+    "MyObsidian/Linux 🐧/Bases/Filesystem.md",
+    "MyObsidian/Linux 🐧/Bases/GNU - Linux.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Reconocimiento de imágenes.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/OSINT.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de subdominios.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de puertos usando descriptores de archivo.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Descubrimiento de equipos en la red local - ARP e ICMP.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Credenciales y brechas de seguridad.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts y categorías en nmap.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts propios en Lua para nmap.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Evasión de Firewalls con Nmap.md",
+    "MyObsidian/Linux 🐧/Consola/Permisos especiales.md",
+    "MyObsidian/Linux 🐧/Consola",
+    "MyObsidian/Linux 🐧/Bash",
+    "MyObsidian/Linux 🐧/Consola/Manejo de argumentos.md",
+    "MyObsidian/Linux 🐧/Consola/Escritura y sobreescritura.md",
+    "MyObsidian/Linux 🐧/Consola/Descriptores de archivo.md",
+    "MyObsidian/Linux 🐧/Consola/Usuarios y grupos.md",
+    "MyObsidian/Linux 🐧/Consola/SUID y SGID.md",
+    "MyObsidian/Linux 🐧/Consola/Wildcards.md",
+    "MyObsidian/Linux 🐧/Bases",
+    "MyObsidian/Linux 🐧/Sin título.canvas",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Sets - Conjuntos.md",
+    "MyObsidian/Python 🐍/2 - POO"
   ]
 }

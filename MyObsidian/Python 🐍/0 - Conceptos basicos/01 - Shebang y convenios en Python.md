@@ -2,6 +2,11 @@
 aliases:
   - shebang
 ---
+Por convenio usaremos el siguiente estilo de declaraciones:
+- **Excepciones, Clases** (UpperCamelCase)
+- **Funciones** (snake_case) en otros lenguajes usan lowerCamelCase 
+- **Constantes** (SCREAMING_SNAKE_CASE)
+
 ---
 En el desarrollo con Python, el shebang y los convenios de codificación son aspectos importantes que facilitan la escritura de scripts claros y portables.
 

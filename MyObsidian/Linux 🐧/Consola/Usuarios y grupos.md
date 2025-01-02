@@ -2,7 +2,7 @@
 tags:
   - Linux
 ---
----
+ ---
 Para crear usuarios y grupos y asignar usuarios a grupos en Linux desde la línea de comandos, puedes utilizar varios comandos específicos. Aquí tienes los pasos básicos:
 ### ***Crear un nuevo grupo***:
 Puedes utilizar el comando `groupadd` para crear un nuevo grupo. Por ejemplo:

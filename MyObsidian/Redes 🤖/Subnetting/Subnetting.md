@@ -38,7 +38,7 @@ Para calcular la cantidad de hosts disponibles en una red CIDR, se deben contar 
 
 Por ejemplo, una máscara de red de **255.255.255.0** (**/24**) tiene **8 bits** en “**0**“, lo que significa que hay **2^8 = 256** direcciones IP disponibles para los hosts en esa red.
 
-A continuación, se representan algunos ejemplos prácticos de CIDR:
+A continuación, se representan algunos ***ejemplos prácticos*** de CIDR:
 
 - Una dirección IP con un prefijo de **/28** (**255.255.255.240**) permite hasta **16 direcciones IP** para los hosts (**2^4**), ya que los primeros **28 bits** corresponden a la red.
 - Una dirección IP con un prefijo de **/26** (**255.255.255.192**) permite hasta **64 direcciones IP** para los hosts (**2^6**), ya que los primeros **26 bits** corresponden a la red.

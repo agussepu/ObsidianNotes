@@ -14,9 +14,7 @@ recordar que un puerto puede estar en diferentes **estados**:
 - **cerrado**
 - **filtrado**: la herramienta no distingue si esta abierto o cerrado dicho puerto
 
-Al usar nmap debemos indicar que ip vamos a escanear
-
-Nota: En total existen 65535 puertos 
+Al usar nmap debemos indicar que ip vamos a escanear. En total existen *65535* puertos 
 
 **Parametros**:  
 1. Enumeramos los **puertos** que queremos con el parámetro -p:
@@ -51,10 +49,13 @@ MAC Address: 1C:A0:D3:62:16:88 (Intertecno SRL Nisuta)
 Nmap done: 1 IP address (1 host up) scanned in 8.35 seconds
 ```
 
-4. el parámetro *-v* (verbose) no dará mas info a medida que se realice el escaneo dando la posibilidad de hacer enter y ver mas info
-5. mediante el parametro **-n** podemos quitar la resolución dns para ir mas rápido
+4. el parámetro ***-v*** (verbose) no dará mas info a medida que se realice el escaneo dando la posibilidad de hacer enter y ver mas info
+
+5. mediante el parametro ***-n*** podemos quitar la resolución dns para ir mas rápido
+
 6. para que el escaneo vaya mas rápido podemos usar el parametro -T5 (del 0 al 5 podemos usar siendo 0 muy lento y 5 muy rápido)
-7. **tcp conect scan** lo usamos con el parametro -sT se utiliza el  **[[Three-Way Handshake|Three-Way Handshake]]**
+
+7. **tcp conect scan** lo usamos con el parametro ***-sT*** se utiliza el  **[[Three-Way Handshake|Three-Way Handshake]]**
 	- Nosotros enviamos un SYN y si un puerto esta cerrado nos devolverá un --> RST (Cerrado)
 	- SI esta abierto nos devolverá un SYN/ACK para luego devolver un ACK que seria established (conexión establecida) 
 	
@@ -73,9 +74,9 @@ y finalmente abriamos el archivo tcpdump con wireshark para ver dichas trazas
  ```
 
 
-8. El parametro -Pn se recomiendo usarlo para que de por hecho que el host esta activo
+8. El parametro ***-Pn*** se recomiendo usarlo para que de por hecho que el host esta activo
 
-9. con el parametro -sU podemos escanear por el protocolo UDP el cual sera un poco mas lento el escaneo
+9. con el parametro ***-sU*** podemos escanear por el protocolo UDP el cual sera un poco mas lento el escaneo
  ```bash
 ❯ nmap --top-ports 500 -sU 192.168.2.1 -n -v -Pn
 Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times may be slower.
@@ -105,7 +106,7 @@ Nmap done: 1 IP address (1 host up) scanned in 2.76 seconds
            Raw packets sent: 609 (30.824KB) | Rcvd: 546 (32.441KB)
 ```
 
-10. Con el parametro -O podemos ver que sistemas operativos tiene el target que escaneamos (no se recomienda)
+10. Con el parametro ***-O*** podemos ver que sistemas operativos tiene el target que escaneamos (no se recomienda)
 ```bash 
 ❯ nmap -O 192.168.2.101
 ```

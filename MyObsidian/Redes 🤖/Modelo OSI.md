@@ -6,6 +6,8 @@ aliases:
 ---
 En redes de ordenadores, el modelo **OSI** (Open Systems Interconnection) es una estructura de **siete capas** que se utiliza para describir el proceso de comunicación entre dispositivos. Cada capa proporciona servicios y funciones específicas, que permiten a los dispositivos comunicarse a través de la red.
 
+![[Pasted image 20250102200530.png]]
+
 A continuación, se describen brevemente las siete capas del modelo OSI:
 
 1. **Capa física**: Es la capa más baja del modelo OSI, que se encarga de la transmisión de datos a través del medio físico de la red, como cables de cobre o fibra óptica.
@@ -25,3 +27,5 @@ A continuación, se describen brevemente las siete capas del modelo OSI:
 Comprender la estructura en capas del modelo OSI es esencial para cualquier analista de seguridad, ya que permite tener una visión completa del funcionamiento de la red y de las posibles vulnerabilidades que puedan existir en cada una de las capas.
 
 Esto nos permite identificar de manera efectiva los puntos débiles de la red y aplicar medidas de seguridad adecuadas para protegerla de posibles ataques.
+
+https://www.youtube.com/watch?v=3b_TAYtzuho&t=73s

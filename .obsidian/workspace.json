@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Nmap.md",
+                "file": "MyObsidian/Redes 💻/Proxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "Proxy"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -154,18 +154,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "9d383387e6668f8b",
   "lastOpenFiles": [
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts propios en Lua para nmap.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts y categorías en nmap.md",
+    "MyObsidian/Redes 💻/Proxy.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts propios en Lua para nmap.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Evasión de Firewalls con Nmap.md",
+    "MyObsidian/Redes 💻/Firewalls.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Nmap.md",
     "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Diccionarios.md",
     "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Sets - Conjuntos.md",
@@ -175,8 +178,8 @@
     "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
     "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
     "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Basic.md",
-    "MyObsidian/Redes 🤖/Modelo OSI.md",
-    "MyObsidian/Redes 🤖/IPV4 - IPV6.md",
+    "MyObsidian/Redes 💻/Modelo OSI.md",
+    "MyObsidian/Redes 💻/IPV4 - IPV6.md",
     "MyObsidian/Linux 🐧/Bases/GNU - Linux.md",
     "MyObsidian/Linux 🐧/Bases/Filesystem.md",
     "MyObsidian/Linux 🐧/Consola/Atributos de ficheros - Chattr y Lsattr.md",
@@ -187,10 +190,7 @@
     "MyObsidian/Linux 🐧/Consola/Escritura y sobreescritura.md",
     "MyObsidian/Linux 🐧/Consola/Descriptores de archivo.md",
     "README.md",
-    "MyObsidian/Redes 🤖/Subnetting/Subnetting.md",
-    "MyObsidian/Redes 🤖/Subnetting/Cálculo Subnetting.md",
-    "MyObsidian/Redes 🤖/MAC address (OUI y NIC).md",
-    "MyObsidian/Redes 🤖/Subnetting",
+    "MyObsidian/Redes 💻/Subnetting",
     "MyObsidian/📷/Pasted image 20250102200530.png",
     "MyObsidian/📷/handshake.png",
     "MyObsidian/📷/launchpad_image.png",

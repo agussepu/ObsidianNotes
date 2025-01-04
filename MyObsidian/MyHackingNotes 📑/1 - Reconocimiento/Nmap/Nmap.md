@@ -115,6 +115,7 @@ Nmap done: 1 IP address (1 host up) scanned in 2.76 seconds
 ``` bash
 ❯ arp-scan -I wlan0 --localnet
 ❯ nmap -sn 192.168.2.0/24 | grep -oP '\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
+❯ sudo nmap -sn --disable-arp-ping --send-ip 192.168.2.0/24
 ```
 
 12. Al saber que puertos hay abierto podemos usar -sV para tener mas informacion de cada puerto

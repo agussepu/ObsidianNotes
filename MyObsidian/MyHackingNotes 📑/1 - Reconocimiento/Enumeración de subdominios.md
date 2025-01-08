@@ -31,7 +31,7 @@ A continuación, os adjuntamos los enlaces a las herramientas vistas en esta cla
 ---
 **NOTA: en /usr/share/ clone SecLists son diccionarios para fuerza bruta**
 # Numeración pasiva:
-
+Nota: no pude usar esta herraminetas pero basicamente hace peticiones aca https://crt.sh/
 CTRF esta instalado en /opt se utiliza para buscar subdominios de un dominio
 ```bash
 ❯ python3 ctfr.py -d tinder.com

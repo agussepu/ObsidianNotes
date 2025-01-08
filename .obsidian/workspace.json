@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d58cabf23e0cc6",
+        "id": "b2b4b237b5a888f8",
         "type": "tabs",
         "children": [
           {
-            "id": "9d383387e6668f8b",
+            "id": "dd194e052bd16a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyObsidian/Redes 💻/Proxy.md",
+                "file": "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Despliegue de máquinas vulnerables con Docker-Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "Despliegue de máquinas vulnerables con Docker-Compose"
             }
           }
         ]
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -162,34 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d383387e6668f8b",
+  "active": "c270147550248abc",
   "lastOpenFiles": [
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts y categorías en nmap.md",
+    "MyObsidian/MyHackingNotes 📑/2 -",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Comandos comunes para la gestión de contenedores.md",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Carga de instrucciones y despliegue.md",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Creación y construcción de imágenes.md",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Despliegue de máquinas vulnerables con Docker-Compose.md",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/Port Forwarding y uso de monturas.md",
+    "MyObsidian/MyHackingNotes 📑/0 - Laboratorio locales en Docker/0 - Docker.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Fuzzing.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificar tecnologías de una web.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Credenciales y brechas de seguridad.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de subdominios.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de puertos usando descriptores de archivo.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Descubrimiento de equipos en la red local - ARP e ICMP.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/OSINT/Descubrimiento de correos electrónicos.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Google Dorking.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificación externa de la versión del OS.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/OSINT/OSINT.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/OSINT",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Untitled.md",
+    "MyObsidian/Redes 💻/Subnetting/Subnetting.md",
+    "MyObsidian/Redes 💻/Subnetting/Cálculo Subnetting.md",
+    "MyObsidian/Redes 💻/Firewalls.md",
     "MyObsidian/Redes 💻/Proxy.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts y categorías en nmap.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts propios en Lua para nmap.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Evasión de Firewalls con Nmap.md",
-    "MyObsidian/Redes 💻/Firewalls.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Nmap.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Diccionarios.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Sets - Conjuntos.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Operadores Aritmeticos.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Manejo de errores y excepciones.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Lamnda.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/01 - Shebang y convenios en Python.md",
-    "MyObsidian/Python 🐍/0 - Conceptos basicos/00 - Teoría.md",
-    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Basic.md",
-    "MyObsidian/Redes 💻/Modelo OSI.md",
-    "MyObsidian/Redes 💻/IPV4 - IPV6.md",
-    "MyObsidian/Linux 🐧/Bases/GNU - Linux.md",
-    "MyObsidian/Linux 🐧/Bases/Filesystem.md",
-    "MyObsidian/Linux 🐧/Consola/Atributos de ficheros - Chattr y Lsattr.md",
-    "MyObsidian/Linux 🐧/Consola/Usuarios y grupos.md",
-    "MyObsidian/Linux 🐧/Consola/Tareas Cron.md",
-    "MyObsidian/Linux 🐧/Consola/SUID y SGID.md",
-    "MyObsidian/Linux 🐧/Consola/Manejo de argumentos.md",
-    "MyObsidian/Linux 🐧/Consola/Escritura y sobreescritura.md",
-    "MyObsidian/Linux 🐧/Consola/Descriptores de archivo.md",
-    "README.md",
     "MyObsidian/Redes 💻/Subnetting",
     "MyObsidian/📷/Pasted image 20250102200530.png",
     "MyObsidian/📷/handshake.png",

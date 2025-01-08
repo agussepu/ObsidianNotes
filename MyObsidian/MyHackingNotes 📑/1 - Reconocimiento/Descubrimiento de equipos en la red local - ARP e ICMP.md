@@ -80,7 +80,7 @@ Alternativa manual en caso de que con nmap o arp-scan no encontrar ips conetadas
  19 tput cnorm
 ```
 
-# nota: me deja sin Internet al usar un rate de 1000 paquetes
+# Nota! NO usar!  deja sin internet, deben ser muchos paquetes
 
 nmap puede llegar a escanear unos 1000 host por minuto y es importante conocer otra herramienta que puede llegar a escanear unos millones por minuto la cual es **masscan** 
 ```shell 

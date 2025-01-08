@@ -13,6 +13,8 @@ Una alternativa a la enumeración de puertos utilizando herramientas externas es
 Para realizar la enumeración de puertos utilizando **/dev/tcp** en Bash, es posible crear un script que realice una conexión a cada puerto de interés y compruebe si el puerto está abierto o cerrado en función de si se puede enviar o recibir datos. Una forma de hacer esto es mediante el uso de comandos como “**echo**” o “**cat**“, aplicando redireccionamientos al **/dev/tcp**. El código de estado devuelto por el comando se puede utilizar para determinar si el puerto está abierto o cerrado.
 
 ```bash
+#!/bin/bash
+
 function ctrl_c(){
     echo -e "\n\n[!] Saliendo..."
     tput cnorm; exit 1

@@ -1,6 +1,9 @@
-En esta clase, hablaremos sobre el protocolo de transferencia de archivos (**FTP**) y cómo aplicar reconocimiento sobre este para recopilar información.
-
-FTP es un protocolo ampliamente utilizado para la **transferencia de archivos** en redes. La enumeración del servicio FTP implica recopilar información relevante, como la versión del servidor FTP, la configuración de permisos de archivos, los usuarios y las contraseñas (mediante ataques de fuerza bruta o guessing), entre otros.
+---
+tags:
+  - HackingTools
+---
+---
+**FTP** es un protocolo ampliamente utilizado para la **transferencia de archivos** en redes. La enumeración del servicio FTP implica recopilar información relevante, como la versión del servidor FTP, la configuración de permisos de archivos, los usuarios y las contraseñas (mediante ataques de fuerza bruta o guessing), entre otros.
 
 Con ftp tenemos dos posibilidades que podamos entrar como invitados con el usuario anonymous el cual no necesita contraseña o con un usuario y contraseña preexistente que deberemos descubrir
 

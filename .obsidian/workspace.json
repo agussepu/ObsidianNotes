@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b4b237b5a888f8",
+        "id": "8cbeff0de3897468",
         "type": "tabs",
         "children": [
           {
-            "id": "aae38b4058776871",
+            "id": "5e9d3969cf6f5997",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -60,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -139,13 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md"
+                "file": "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Cadenas - Listas.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Atributos de ficheros - Chattr y Lsattr"
+              "title": "Esquema de Cadenas - Listas"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,54 +167,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aae38b4058776871",
+  "active": "5e9d3969cf6f5997",
   "lastOpenFiles": [
-    "MyObsidian/Linux 🐧/memo.md",
-    "README.md",
-    "MyObsidian/Maquinas 🎮/MyExpense.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE)/External DTD (XXE OOB Blind).md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI)",
-    "MyObsidian/📷/Pasted image 20250114164518.png",
-    "MyObsidian/📷/Pasted image 20250114135749.png",
-    "MyObsidian/📷/Pasted image 20250114134428.png",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE)/XML con Entidades.md",
-    "MyObsidian/📷/Pasted image 20250114133630.png",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE)/0 - XML External Entity Injection (XXE) introducción.md",
-    "MyObsidian/📷/Pasted image 20250114114247.png",
-    "MyObsidian/📷/Pasted image 20250114113712.png",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE)",
-    "MyObsidian/📷/Pasted image 20250113221636.png",
-    "MyObsidian/📷/Pasted image 20250113213629.png",
-    "MyObsidian/📷/Pasted image 20250113211945.png",
-    "MyObsidian/📷/Pasted image 20250113211749.png",
-    "MyObsidian/Redes 💻/ICMP?????.md",
-    "MyObsidian/Redes 💻/HTTP.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection/0 - SQL-Injection introduccion.md",
-    "MyObsidian/Maquinas 🎮",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection/Inyección SQL basada en booleanos.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection/Detección SQL-Injection.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection/1 - MySQL.md",
-    "MyObsidian/Docker 🐋/Port Forwarding y uso de monturas.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Evasión de Firewalls con Nmap.md",
+    "MyObsidian/Linux 🐧/Estudio Linux.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de subdominios.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de puertos usando descriptores de archivo.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Descubrimiento de equipos en la red local - ARP e ICMP.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Credenciales y brechas de seguridad.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts y categorías en nmap.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Scripts propios en Lua para nmap.md",
     "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Nmap.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Phishing XSS.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Cross-Site Scripting (XSS) introduccion.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/External JavaScript Source XSS.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Keylogger XSS.md",
-    "MyObsidian/MyHackingNotes 📑/2 - Conceptos basicos de enumeracion y explotacion/Tipos de payloads (Staged y Non-Staged).md",
-    "MyObsidian/MyHackingNotes 📑/2 - Conceptos basicos de enumeracion y explotacion/Reverse Shells, Bind Shells y Forward Shells.md",
-    "MyObsidian/MyHackingNotes 📑/2 - Conceptos basicos de enumeracion y explotacion/Enumeración del sistema.md",
-    "MyObsidian/MyHackingNotes 📑/0 - Enumeracion servicios comunes y gestores de contenidos (CMS)/CMS – Drupal.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificar tecnologías de una web.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificación externa de la versión del OS.md",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Evasión de Firewalls con Nmap.md",
+    "MyObsidian/Python 🐍/Python Guía.md",
+    "MyObsidian/Linux 🐧/Consola/Umask.md",
+    "MyObsidian/CCST/Introduccion a la Ciberseguridad/Introduction al Hacking.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Cadenas - Listas.md",
+    "MyObsidian/CCST/Introduccion a la Ciberseguridad",
+    "MyObsidian/CCST",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Expresiones regulares.md",
+    "MyObsidian/Redes 💻/Subnetting/Cálculo Subnetting.md",
+    "MyObsidian/Redes 💻/Subnetting/Subnetting.md",
+    "MyObsidian/Python 🐍/2 - POO/Herencia y Polimorfismo.md",
+    "MyObsidian/📷/Pasted image 20250220195607.png",
+    "MyObsidian/📷/Pasted image 20250220194837.png",
+    "MyObsidian/Python 🐍/2 - POO/Propiedades.md",
+    "MyObsidian/Python 🐍/2 - POO/Encapsulamiento y Metodos Especiales.md",
+    "MyObsidian/Python 🐍/2 - POO/Decoradores.md",
+    "MyObsidian/Python 🐍/2 - POO/0 - POO introducción.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Shebang y convenios en Python.md",
+    "MyObsidian/Python 🐍/0 - Conceptos basicos/Teoría Python.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Inputs.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Sets - Conjuntos.md",
+    "MyObsidian/Python 🐍/1 - Colecciones de Estructuras y datos/Archivos TXT.md",
+    "MyObsidian/📷/Pasted image 20250218151059.png",
+    "MyObsidian/📷/Pasted image 20250218150458.png",
+    "MyObsidian/📷/Pasted image 20250218150343.png",
+    "MyObsidian/📷/Pasted image 20250218150333.png",
+    "MyObsidian/📷/Pasted image 20250218134335.png",
+    "MyObsidian/📷/Pasted image 20250218134000.png",
+    "MyObsidian/📷/Pasted image 20250218125211.png",
+    "MyObsidian/📷/Pasted image 20250218124247.png",
+    "MyObsidian/Redes 💻/cosas",
+    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI)",
+    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI)",
+    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE)",
+    "MyObsidian/Maquinas 🎮",
     "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection",
+    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)",
     "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web",
-    "MyObsidian/MyHackingNotes 📑/2 - Conceptos basicos de enumeracion y explotacion/Burpsuite",
-    "MyObsidian/Python 🐍/2 - POO",
-    "MyObsidian/MyHackingNotes 📑/2 - Conceptos basicos de enumeracion y explotacion",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/OSINT",
     "MyObsidian/Linux 🐧/Sin título.canvas"
   ]
 }

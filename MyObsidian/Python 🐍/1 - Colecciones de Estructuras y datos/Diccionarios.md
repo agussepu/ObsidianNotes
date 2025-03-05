@@ -13,8 +13,13 @@ Los diccionarios en Python son colecciones desordenadas de pares clave-valor. A 
 
 Un diccionario se define con `{clave: valor}`
 ```python
-`# Crear un diccionario simple 
-inventario = {     "manzanas": (1.5, 10),  # Precio: 1.5, Cantidad: 10     "bananas": (2.0, 20),     "naranjas": (1.8, 15) } print(inventario)`
+# Crear un diccionario simple 
+inventario = {     "manzanas": (1.5, 10),  
+						Precio: 1.5, 
+						Cantidad: 10     
+					"bananas": (2.0, 20),     
+					"naranjas": (1.8, 15) } 
+print(inventario)
 ```
 ---
 
@@ -105,3 +110,5 @@ Usa el operador `|` (Python 3.9+):
 ```python
 `inventario = {     "manzanas": (1.5, 10),     "bananas": (2.0, 20),     "naranjas": (1.8, 15) }  # Agregar un nuevo producto inventario["uvas"] = (2.5, 8)  # Actualizar el precio y la cantidad de un producto existente inventario["manzanas"] = (1.6, 12)  # Mostrar todos los productos for producto, (precio, cantidad) in inventario.items():     print(f"{producto} - Precio: {precio}, Cantidad: {cantidad}")  # Eliminar un producto inventario.pop("bananas", None) print("\nInventario actualizado:", inventario)`
 ```
+
+![[Pasted image 20250218124247.png]]

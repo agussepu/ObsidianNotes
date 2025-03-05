@@ -68,10 +68,16 @@ Un **firewall** es un sistema de seguridad que controla y filtra el tráfico de 
 
 ### Comparación rápida:
 
-|**Tipo**|**Capa OSI**|**Capacidades**|**Uso común**|
-|---|---|---|---|
-|Filtrado de paquetes|Red (capa 3)|Básico, rápido, reglas simples|Pequeñas redes o sistemas básicos|
-|Stateful Firewall|Red y Transporte|Conexiones válidas, más seguro|Redes corporativas|
-|UTM|Varias capas|Protección integral|PYMEs, empresas|
-|Proxy Firewall|Aplicación (capa 7)|Inspección profunda, anonimato|Control granular de tráfico|
-|NGFW|Todas las capas|Avanzado, DPI, IDS/IPS|Empresas grandes, alta seguridad|
+| **Tipo**             | **Capa OSI**        | **Capacidades**                | **Uso común**                     |
+| -------------------- | ------------------- | ------------------------------ | --------------------------------- |
+| Filtrado de paquetes | Red (capa 3)        | Básico, rápido, reglas simples | Pequeñas redes o sistemas básicos |
+| Stateful Firewall    | Red y Transporte    | Conexiones válidas, más seguro | Redes corporativas                |
+| UTM                  | Varias capas        | Protección integral            | PYMEs, empresas                   |
+| Proxy Firewall       | Aplicación (capa 7) | Inspección profunda, anonimato | Control granular de tráfico       |
+| NGFW                 | Todas las capas     | Avanzado, DPI, IDS/IPS         | Empresas grandes, alta seguridad  |
+
+---
+# Repaso 
+hola :: chau
+
+

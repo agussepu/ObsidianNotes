@@ -34,3 +34,13 @@ lista_numeros = list(set(lista_numeros))
 # y con len el tamaño de la lista ademas con sum podemos sumar todos los valores de una lista
 # y para redondear un numero usamos round
 ```
+
+# Cadenas
+
+Con `dir` podemos ver todos los atributos de un objeto
+
+![[Pasted image 20250218095203.png]]
+
+![[Pasted image 20250218095252.png]]
+
+Con el metodo `split` podemos separar todas las cadenas de una cadena jeje

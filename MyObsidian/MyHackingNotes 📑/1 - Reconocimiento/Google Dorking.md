@@ -7,7 +7,7 @@ tags:
 ---
 *NOTA: con la herramienta exiftool podemos ver metadatos de un archivo (ver si es solo pdf)*
 
-*NOTA: https://www.exploit-db.com/ lugar donde hay vulnerabilidades con el codigo* ademas de haber dorks de google hacking
+*NOTA: https://www.exploit-db.com/ lugar donde hay vulnerabilidades con el código* ademas de haber dorks de google hacking
 
 El ‘**Google Dork**‘ es una técnica de búsqueda avanzada que utiliza operadores y palabras clave específicas en el buscador de Google para encontrar información que normalmente no aparece en los resultados de búsqueda regulares.
 

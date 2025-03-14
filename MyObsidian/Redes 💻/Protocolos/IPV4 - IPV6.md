@@ -4,7 +4,7 @@ tags:
 aliases:
   - IP
 ---
----
+	---
 Las direcciones IP son identificadores numéricos únicos que se utilizan para identificar dispositivos en una red.
 Existen dos versiones de direcciones IP: **IPv4** e **IPv6**. La versión **IPv4** utiliza un formato de dirección de **32 bits** y se utiliza actualmente en la mayoría de las redes. La versión **IPv6** utiliza un formato de dirección de **128 bits** y se está implementando gradualmente en todo el mundo para hacer frente a la escasez de direcciones IPv4.
 

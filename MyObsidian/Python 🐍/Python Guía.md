@@ -4,10 +4,12 @@ tags:
 ---
 ---
 # Básico
-Diccionarios
-Lambda
-Archivos TXT y CSV
-Excepciones 
-Expresiones Regulares
+- [x] Diccionario
+- [x] Lambda
+- [ ] Excepciones 
+- [ ] Expresiones Regulares
 
+- [ ] Archivos TXT y CSV
+---
+# POO
 

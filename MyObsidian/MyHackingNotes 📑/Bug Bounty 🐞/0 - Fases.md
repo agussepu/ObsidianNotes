@@ -1,7 +1,9 @@
+Reconocimiento Pasivo
+Reconocimiento Activo
+Explotación de Vulnerabilidades
+Post Explotación
 
-     
-**gotr00t?**: https://www.youtube.com/watch?v=L-qSSZIP3rU&t=2109s
-  
+---
 1. Choosing a bug bounty platform 
 2. Choosing a program to hack on 
 

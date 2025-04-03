@@ -15,4 +15,6 @@ A la hora de hacer un escaneo en bug bounty debemos ir un poco mas lento que un 
 nmap -A -F -T1 <ip-address> -v
 ```
 
+Ryan John recomienda escanear solo estos puertos si estamos en un programa de bug bounty para no golpear todos los puertos (65536)
+![[Pasted image 20250315221003.png]]
 

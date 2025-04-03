@@ -14,4 +14,6 @@
 ---
 # Hacking
 - [ ] ***Basics***
-	- [ ] HTTP
+	- [ ] SQLi
+	- [ ] Pulir uso de herramientas de reconocimiento
+	

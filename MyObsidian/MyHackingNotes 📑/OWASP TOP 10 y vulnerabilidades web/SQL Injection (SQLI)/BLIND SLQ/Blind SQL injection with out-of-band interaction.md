@@ -1,0 +1,1 @@
+Para explotar este tipo de vulnerabilidades intentamos causar un DNS lookup

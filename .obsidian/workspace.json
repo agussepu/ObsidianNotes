@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae8d878962788c8",
+        "id": "8b64d0b4bb94d0cc",
         "type": "tabs",
         "children": [
           {
-            "id": "00f2d1fb82a6add2",
+            "id": "14b440921829722b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Fuzzing/FFUF.md",
+                "file": "MyObsidian/Lenguajes 💾/Java ♨️/Datos Genericos java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFUF"
+              "title": "Datos Genericos java"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyObsidian/Linux 🐧/Atributos de ficheros - Chattr y Lsattr.md",
+                "file": "MyObsidian/Lenguajes 💾/Java 🧟‍♂️/Estructura Básica Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Atributos de ficheros - Chattr y Lsattr"
+              "title": "Enlaces entrantes de Estructura Básica Java"
             }
           },
           {
@@ -149,8 +149,7 @@
               "title": "Esquema de Cadenas - Listas"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,54 +166,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00f2d1fb82a6add2",
+  "active": "14b440921829722b",
   "lastOpenFiles": [
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Nmap/Nmap Bug Bounty.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Fuzzing/FFUF.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificación externa de la versión del OS.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Fuzzing",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Google Dorking.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Descubrimiento de equipos en la red local - ARP e ICMP.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de puertos usando descriptores de archivo.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Enumeración de subdominios.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Tools ⚒️ (indice).md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Fuzzing.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/VPN - VPS/VPS o VPN propoa.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/VPN - VPS",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/1 - Reconnaissance (activo).md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/0 - Fases.md",
-    "Nmap.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Nmap/Scripts propios en Lua para nmap.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Nmap/Nmap Basics.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Nmap/Scripts y categorías en nmap.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Nmap/Evasión de Firewalls con Nmap.md",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/2 - Inteligencia (pasivo).md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Nmap/Nmap bug bounty.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/0 - SQL-Injection introduccion.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/Inyección SQL basada en booleanos.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/sqlmap.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/Inyección SQL basada en tiempo.md",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/Detección SQL-Injection.md",
-    "MyObsidian/MyHackingNotes 📑/Tools ⚒️/Sin título.md",
-    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Identificar tecnologías de una web.md",
-    "MyObsidian/Trash 🗑️",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞",
-    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️",
-    "MyObsidian/📷/Pasted image 20250312181401.png",
-    "MyObsidian/📷/Pasted image 20250312180813.png",
-    "MyObsidian/📷/Pasted image 20250312180748.png",
-    "MyObsidian/Redes 💻/Hardaware",
-    "MyObsidian/CCST/Introduccion a la Ciberseguridad",
-    "MyObsidian/CCST",
-    "MyObsidian/📷/Pasted image 20250220195607.png",
-    "MyObsidian/📷/Pasted image 20250220194837.png",
-    "MyObsidian/📷/Pasted image 20250218151059.png",
-    "MyObsidian/📷/Pasted image 20250218150458.png",
-    "MyObsidian/📷/Pasted image 20250218150343.png",
-    "MyObsidian/📷/Pasted image 20250218150333.png",
-    "MyObsidian/📷/Pasted image 20250218134335.png",
-    "MyObsidian/Redes 💻/Protocolos",
-    "MyObsidian/MyHackingNotes 📑/3 - OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI)",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Diagramas UML.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Datos Genericos java.md",
+    "MyObsidian/📷/Pasted image 20250401123822.png",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Comparaciones Java.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Exepciones java.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Clases Teoricas/Semana 1 Java/Clases y Objetos Java.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Clases Teoricas/Semana 1 Java/0 - Intro a Clases y Objetos.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Estructura Básica Java.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Javadoc.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Java main().md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Interfaces.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Arreglos Polimorficos.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Inyección SQL basada en booleanos.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Exploiting blind SQL injection by triggering conditional responses.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Error-based SQL injection.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Blind SQL injection with time delay.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Blind SQL injection with out-of-band interaction.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ/Blind SQL injection with conditional responses.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Phishing XSS.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Keylogger XSS.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/External JavaScript Source XSS.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Cross-Site Scripting (XSS) Intro.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI)/Remote File Inclusion (RFI).md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI)/LFI introduccion.md",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/IDOR/IDOR Basics.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Polimorfismo.md",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Tipo de Dato abstracto (TDA).md",
+    "MyObsidian/Starbucks Japan/recon SJ",
+    "MyObsidian/Starbucks Japan",
+    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Programs 📋",
+    "MyObsidian/📷/Pasted image 20250328110509.png",
+    "MyObsidian/MyHackingNotes 📑/Bug Bounty 🐞/Tools ⚒️/Caido",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/BLIND SLQ",
+    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI)/SQL UNION ATTACK (in-band)",
+    "MyObsidian/📷/Pasted image 20250323204543.png",
+    "MyObsidian/Lenguajes 💾/Java ♨️/Clases Teoricas/Semana 2 Java",
+    "MyObsidian/Lenguajes 💾/Javascript 🇯‌🇸‌",
+    "MyObsidian/Lenguajes 💾/SQL ⛁",
+    "MyObsidian/MyHackingNotes 📑/1 - Reconocimiento/Activo",
+    "MyObsidian/📷/Pasted image 20250316155717.png",
+    "MyObsidian/📷/Pasted image 20250218134000.png",
+    "MyObsidian/📷/Pasted image 20250115222814.png",
+    "MyObsidian/📷/Pasted image 20250115203901.png",
+    "MyObsidian/📷/Pasted image 20250114205421.png",
+    "MyObsidian/📷/Pasted image 20250113203714.png",
+    "MyObsidian/📷/Pasted image 20250113203834.png",
     "MyObsidian/Linux 🐧/Sin título.canvas"
   ]
 }

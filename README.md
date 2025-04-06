@@ -1,19 +1,3 @@
-# Conocimientos CV
 
----
-# Proyectos
-
----
-- [ ] ***Linux***
-	- [ ] Bandit
-	- [ ] Bash Scripting
-- [ ] ***Python***
-	- [ ] POO
-- [ ] ***SQL***
-	- [ ] Curso Dalto
----
-# Hacking
-- [ ] ***Basics***
-	- [ ] SQLi
-	- [ ] Pulir uso de herramientas de reconocimiento
-	
+postward
+6;8W"94^aMRr8wS+|'2zB73Z_@FG2!y2

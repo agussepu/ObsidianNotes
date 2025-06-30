@@ -2,7 +2,9 @@
   "settings": {
     "flashcardTags": [
       "#flashcards",
-      "#facultad"
+      "#AdC",
+      "#Java",
+      "#AlgoritmicaII"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

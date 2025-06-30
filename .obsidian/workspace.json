@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0764a8cf04beccdc",
+            "id": "2c1565587d5bc8b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyObsidian/Bug Bounty 🐞/ars0n-framework-v2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ars0n-framework-v2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5086555480957
   },
   "right": {
     "id": "b0394bd666860742",
@@ -150,7 +146,17 @@
             }
           },
           {
-            "id": "36a2fd51c6a81c42",
+            "id": "bb8dbc9f87864211",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
+            }
+          },
+          {
+            "id": "2234bfcec2369fa3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -178,54 +184,55 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "0764a8cf04beccdc",
+  "active": "bb8dbc9f87864211",
   "lastOpenFiles": [
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/5- Identifying Objects.md",
-    "MyObsidian/Bug Bounty 🐞/ars0n-framework-v2.md",
-    "MyObsidian/📷/paymentIDOR.png",
-    "MyObsidian/📷/userObject_IDOR.png",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/Notes for BBP IDORs.md",
-    "MyObsidian/📷/NoteBBP_IDOR.png",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/4 - Avoiding false positives.md",
-    "MyObsidian/📷/validacionTokenIDOR.png",
-    "MyObsidian/📷/exampleNoteBBP1.png",
-    "MyObsidian/📷/exampleNoteBBP.png",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/3 - Identifying mechanisms.md",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/2 - Testing for IDORs in JWTs.md",
+    "MyObsidian/Personal/Guias/Fisico.md",
+    "MyObsidian/Personal/Guias/Mental.md",
+    "MyObsidian/Personal/TELOS.md",
+    "MyObsidian/Personal/0 - INDICE.md",
+    "MyObsidian/Personal/Guias/Profesional.md",
+    "MyObsidian/Personal/Guias",
     "README.md",
-    "MyObsidian/Trash 🗑️/Recomendacion Proyectos.md",
-    "MyObsidian/Trash 🗑️/Roadmap.md",
-    "MyObsidian/📷/Pasted image 20250405222705.png",
-    "MyObsidian/📷/valoresJWT.png",
-    "MyObsidian/📷/validaJW.png",
-    "MyObsidian/📷/cifradoJWT_IDOR.png",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/1 -  Identifying important cookies.md",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR/0 - Locating Attack vectors in cookies.md",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR vs Access Control Violations.md",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/IDOR & Access Control Violations/IDOR",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/4 - FODA/Flashcards FODA.md",
-    "MyObsidian/MyHackingNotes 📑/OWASP TOP 10 y vulnerabilidades web/IDOR/IDOR.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/4 - FODA/1- Definición FODA.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/4 - FODA/Estrategias Genericas.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/4 - FODA/Análisis FODA Completo.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas/Retroalimentacion.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/4 - FODA",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas/Clasificación de Sistemas.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas/Propiedades de los sistemas.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/2 - Decisiones",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas/Estudio de sistemas.md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas/0 - Teoría General de Sistemas (TGS).md",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/Test General SyO.md",
-    "MyObsidian/Universidad/Arquitectura de Computadoras/Test General Arquitectura.md",
-    "MyObsidian/Universidad/Java ♨️/Test General Java.md",
-    "MyObsidian/Universidad/Java ♨️/Conceptos/Interfaces.md",
-    "MyObsidian/Universidad/Java ♨️/Conceptos",
-    "MyObsidian/Universidad/Arquitectura de Computadoras",
-    "MyObsidian/Universidad",
-    "MyObsidian/Sistemas y Organizaciones/Informacion y Decisiones/Sin nombre",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/3 -  Dato, Información, Conocimiento",
-    "MyObsidian/Universidad/Sistemas y Organizaciones/1 - Sistemas",
-    "MyObsidian/Universidad/Sistemas y Organizaciones",
+    "MyObsidian/Personal/Rutas/Alimentacion.md",
+    "MyObsidian/Personal/Rutas/Gim.md",
+    "MyObsidian/Personal/Rutas",
+    "MyObsidian/Personal/Rutas/Programacion.md",
+    "MyObsidian/Personal/Rutas/BugBounty.md",
+    "MyObsidian/Personal/Rutas/Guitarra.md",
+    "MyObsidian/Universidad/Teoria Algoritmica.md",
+    "MyObsidian/Personal",
+    "MyObsidian/📷/Tiempo de ejecucion.png",
+    "MyObsidian/Universidad/AdC/Memoria virtual.md",
+    "MyObsidian/Universidad/AdC/Latencia.md",
+    "MyObsidian/Universidad/AdC/Jerarquía de Memoria.md",
+    "MyObsidian/Universidad/AdC/Arquitectura de Computadoras.md",
+    "MyObsidian/Universidad/AdC/AdC.md",
+    "MyObsidian/Universidad/SyO/1 - Teoría General de Sistemas.md",
+    "MyObsidian/Universidad/SyO/0 - Indice.md",
+    "1.md",
+    "TGS.md",
+    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/Words.md",
+    "MyObsidian/Universidad/SyO",
+    "MyObsidian/Universidad/AdC",
+    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/OPEN REDIRECT.md",
+    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/HTTP.md",
+    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/Client Server.md",
+    "MyObsidian/📷/httpStatusCodes.png",
+    "MyObsidian/Redes 💻/Web/DNS.md",
+    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting",
+    "MyObsidian/Bug Bounty 🐞/Sin título.canvas",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Theory",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Dom Injection (Custom JS) & NPM packages",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Reflected Input in Authenticated route",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Reflected Input in Unauthenticated route/Unathenticade",
+    "MyObsidian/📷/CookieMod.png",
+    "MyObsidian/📷/Pasted image 20250518174405.png",
+    "MyObsidian/📷/sesiones.png",
+    "MyObsidian/📷/CookieNoEdit.png",
+    "MyObsidian/📷/change.png",
+    "MyObsidian/📷/Pasted image 20250518165443.png",
+    "MyObsidian/📷/JWT.png",
+    "MyObsidian/📷/Pasted image 20250518164942.png",
     "MyObsidian/Linux 🐧/Sin título.canvas"
   ]
 }

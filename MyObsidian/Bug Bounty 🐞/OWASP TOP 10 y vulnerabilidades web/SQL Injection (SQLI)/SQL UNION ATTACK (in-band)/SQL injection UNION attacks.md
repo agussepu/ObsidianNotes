@@ -1,5 +1,7 @@
 Un **SQL Injection UNION Attack** ocurre cuando un atacante **inyecta una consulta maliciosa con la cláusula `UNION`** para recuperar datos adicionales de la base de datos.
 
+*Union select*, utilizado para concatenar dos select en una misma query pero este tipo de query se usa sabiendo las columnas y debemos averiguarlo usando order by. Este tipo de ataque solo sirve en caso de que ya se este usando un select y en caso de poder ver la salida o como mínimo errores.
+
 ## Concepto de UNION en SQL
 El operador `UNION` en SQL se usa para combinar los resultados de dos consultas:
 ```sql
@@ -68,6 +70,9 @@ Para obtener columnas de una tabla específica:
 - Si la consulta devuelve resultados, significa que **hemos encontrado el número correcto de columnas**.
 
 ### MySQL
+
+`schema_name` → Columna que contiene el nombre de cada base de datos.  
+`information_schema.schemata` → Tabla interna que lista todos los schemas o bases de datos.
 **Una vez conocido el numero de columnas existentes**
 ```sql
 -- Antes de cada union va un '

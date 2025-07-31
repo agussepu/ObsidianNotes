@@ -6,7 +6,7 @@ tags:
 Inicializamos git en un directorio con `git init`
 
 esto crea una carpeta oculta .git que almacena todo lo necesario para su uso
-![[Pasted image 20240810171839.png]]
+![[got.png]]
 
 Usamos git add para añadir los archivos al area de preparacion
 ```bash

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b64d0b4bb94d0cc",
+        "id": "b261b617f024bde9",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1565587d5bc8b6",
+            "id": "82b4708353d77154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MyObsidian/Bug Bounty 🐞/Reconocimiento.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Reconocimiento"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apache",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5086555480957
+    "width": 375.5
   },
   "right": {
     "id": "b0394bd666860742",
@@ -144,29 +148,9 @@
               "icon": "lucide-list",
               "title": "Esquema de Cadenas - Listas"
             }
-          },
-          {
-            "id": "bb8dbc9f87864211",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
-            }
-          },
-          {
-            "id": "2234bfcec2369fa3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,59 +164,57 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar Tarjetas": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb8dbc9f87864211",
+  "active": "82b4708353d77154",
   "lastOpenFiles": [
-    "MyObsidian/Personal/Guias/Fisico.md",
-    "MyObsidian/Personal/Guias/Mental.md",
-    "MyObsidian/Personal/TELOS.md",
-    "MyObsidian/Personal/0 - INDICE.md",
-    "MyObsidian/Personal/Guias/Profesional.md",
-    "MyObsidian/Personal/Guias",
-    "README.md",
-    "MyObsidian/Personal/Rutas/Alimentacion.md",
-    "MyObsidian/Personal/Rutas/Gim.md",
-    "MyObsidian/Personal/Rutas",
-    "MyObsidian/Personal/Rutas/Programacion.md",
-    "MyObsidian/Personal/Rutas/BugBounty.md",
-    "MyObsidian/Personal/Rutas/Guitarra.md",
-    "MyObsidian/Universidad/Teoria Algoritmica.md",
-    "MyObsidian/Personal",
-    "MyObsidian/📷/Tiempo de ejecucion.png",
-    "MyObsidian/Universidad/AdC/Memoria virtual.md",
-    "MyObsidian/Universidad/AdC/Latencia.md",
-    "MyObsidian/Universidad/AdC/Jerarquía de Memoria.md",
-    "MyObsidian/Universidad/AdC/Arquitectura de Computadoras.md",
-    "MyObsidian/Universidad/AdC/AdC.md",
-    "MyObsidian/Universidad/SyO/1 - Teoría General de Sistemas.md",
-    "MyObsidian/Universidad/SyO/0 - Indice.md",
-    "1.md",
-    "TGS.md",
-    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/Words.md",
-    "MyObsidian/Universidad/SyO",
-    "MyObsidian/Universidad/AdC",
-    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/OPEN REDIRECT.md",
-    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/HTTP.md",
-    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting/Client Server.md",
-    "MyObsidian/📷/httpStatusCodes.png",
-    "MyObsidian/Redes 💻/Web/DNS.md",
-    "MyObsidian/Bug Bounty 🐞/Real World Bug Bounty Hunting",
+    "MyObsidian/Bug Bounty 🐞/Bug Bounty.md",
+    "MyObsidian/Bug Bounty 🐞/Reconocimiento.md",
+    "MyObsidian/Bug Bounty 🐞/Extras",
+    "MyObsidian/Bug Bounty 🐞/0 - cyberflow/general cyberflow.md",
+    "MyObsidian/Bug Bounty 🐞/0 - rs0n/Methodologies/Recon rs0n.md",
+    "MyObsidian/Bug Bounty 🐞/0 - rs0n/Methodologies/Logic rs0n.md",
+    "MyObsidian/Bug Bounty 🐞/0 - rs0n/Methodologies/Injection rs0n.md",
+    "MyObsidian/Bug Bounty 🐞/0 - rs0n/ars0n-framework-v2.md",
+    "MyObsidian/Bug Bounty 🐞/Programs 📋/M-Pesa Africa Limited/m-pesa.com.md",
+    "MyObsidian/Bug Bounty 🐞/Extras/Real World Bug Bounty Hunting/OPEN REDIRECT.md",
+    "MyObsidian/Bug Bounty 🐞/Programs 📋/M-Pesa Africa Limited",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Nmap Basics.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Nmap Bug Bounty.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Wpscan.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Scripts y categorías en nmap.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Scripts propios en Lua para nmap.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Nmap/Evasión de Firewalls con Nmap.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Recursos Extra.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/0 - Tools ⚒️ (indice).md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Spyhunt Fuzzing.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/VPN - VPS/VPS o VPN propia.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Fuzzing/WFFUF (subdomain).md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Fuzzing/sublist3r.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Fuzzing/Amass.md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Fuzzing/FFUF (content discovery).md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Data leak/DNS Zone Transfer (AXFR).md",
+    "MyObsidian/Bug Bounty 🐞/Tools ⚒️/Burpsuite/Target Burpsuite.md",
+    "MyObsidian/📷/CORS_Attack.png",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/CSRF o XSRF",
+    "MyObsidian/📷/funcionSinParentesis.png",
+    "MyObsidian/Bug Bounty 🐞/0 - rs0n/Methodologies",
+    "MyObsidian/Bug Bounty 🐞/Programs 📋/NBA/stats.wnba.com",
+    "MyObsidian/📷/onmouseoverXSS.png",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/DOM XSS/Sin nombre",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Stored XSS",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/DOM XSS",
+    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Reflected XSS",
+    "MyObsidian/Linux 🐧/Procesos y logs",
+    "MyObsidian/📷/castSqli.png",
+    "MyObsidian/📷/Pasted image 20250315223509.png",
+    "MyObsidian/📷/Pasted image 20250115230735.png",
+    "MyObsidian/📷/Pasted image 20250115204126.png",
+    "MyObsidian/📷/Pasted image 20250114113712.png",
+    "MyObsidian/📷/Pasted image 20250113213629.png",
+    "MyObsidian/📷/Pasted image 20250113145242.png",
     "MyObsidian/Bug Bounty 🐞/Sin título.canvas",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Theory",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Dom Injection (Custom JS) & NPM packages",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Reflected Input in Authenticated route",
-    "MyObsidian/Bug Bounty 🐞/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS)/Reflected Input in Unauthenticated route/Unathenticade",
-    "MyObsidian/📷/CookieMod.png",
-    "MyObsidian/📷/Pasted image 20250518174405.png",
-    "MyObsidian/📷/sesiones.png",
-    "MyObsidian/📷/CookieNoEdit.png",
-    "MyObsidian/📷/change.png",
-    "MyObsidian/📷/Pasted image 20250518165443.png",
-    "MyObsidian/📷/JWT.png",
-    "MyObsidian/📷/Pasted image 20250518164942.png",
     "MyObsidian/Linux 🐧/Sin título.canvas"
   ]
 }

@@ -24,5 +24,5 @@ Para poder hacer **Bypass** a la firma...
 ![[cifradoJWT_IDOR.png]]
 
 2. Verificamos si valida la firma antes de tomar el user id agregando un caracter a la firma y como vemos nos devuelve un código de estado 200 por lo que no la valida antes (En este ejemplo *borra un caracter* en vez de agregar uno) ![[validaJW.png]]
-3. Al no estar validada la firma probaremos cambiar los valores de user id para ver si podemos acceder a otra cuenta (*Recoda sacar los % sobrantes de la petición HTTP*)![[valoresJWT.png]]![[Pasted image 20250405222705.png]]
+3. Al no estar validada la firma probaremos cambiar los valores de user id para ver si podemos acceder a otra cuenta (*Recoda sacar los % sobrantes de la petición HTTP*)![[valoresJWT.png]]![[extra.png]]
 4. Guardaremos los JSON en las notas pertenecientes a cada cuenta para seguir con el bypass

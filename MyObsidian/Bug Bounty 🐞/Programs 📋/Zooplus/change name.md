@@ -24,7 +24,7 @@ Priority: u=0RodriguezCambio
 
 
 
-![[Pasted image 20250518165443.png]]
+![[zooplus2.png]]
 HTTP/1.1 200 OK
 Content-Length: 0
 Connection: keep-alive

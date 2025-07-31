@@ -83,7 +83,7 @@ Priority: u=0
 
 Este comportamiento demuestra una falla crítica en el aislamiento de sesión y control de autenticación. Es explotable de forma automatizada y afecta directamente a los usuarios autenticados.
 
-![[Pasted image 20250518174405.png]]
+![[zooplus1.png]]
 
 
 ![[CookieMod.png]]

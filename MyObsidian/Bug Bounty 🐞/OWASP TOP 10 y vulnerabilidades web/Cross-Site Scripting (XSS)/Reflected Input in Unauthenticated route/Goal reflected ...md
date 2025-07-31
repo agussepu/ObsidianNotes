@@ -1,1 +1,0 @@
-Deberíamos intentar buscar mecanismos difíciles de acceder o poco utilizados lo cual aumentaría la posibilidad de encontrar algo. Estas dos estrategias la auteticada y la no auntenticada se centrar en XSS reflected de parte del servidor.

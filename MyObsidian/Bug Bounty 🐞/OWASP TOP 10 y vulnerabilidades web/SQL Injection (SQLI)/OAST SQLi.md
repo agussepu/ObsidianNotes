@@ -1,0 +1,1 @@
+Basicamente es un tipo de sqli donde no se ve ningun error ni nada de ese estilo todo sigue si flujo normal pero las inyecciones se ejecutan y la manera de verificarlo es hacer que el server haga una peticion HTTP o una consulta DNS a un sitio externo

@@ -1,0 +1,3 @@
+La cosa acá es que al inyectar una querys vemos el tipo de error que esta aconteciendo por lo que en base a eso podemos jugar, ya que si le pasamos una query donde intentamos por ejemplo pasar el la primer fila de la columna username vemos que nos devuelve un error ya que no podemos castear un string como entero y con esta lógica podemos hacer lo mismo con la columna password y ver el error donde se muestra las password (HABÍA QUE BORRAR EL VALOR DE LA COOOKIEEEE)
+
+![[castSqli.png]]
